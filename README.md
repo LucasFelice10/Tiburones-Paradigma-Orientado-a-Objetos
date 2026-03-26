@@ -57,7 +57,7 @@ A continuación, la organización de las actividades entregadas:
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Star UML](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=Orange)
+![Star UML](https://img.shields.io/badge/Star_UML-000000?style=flat&logo=uml&logoColor=cyan)
 
 
 </div>
