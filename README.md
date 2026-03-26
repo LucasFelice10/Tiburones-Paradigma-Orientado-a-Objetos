@@ -1,4 +1,4 @@
-# Tiburones-Paradigma-Orientado-a-Objetos
+<img width="1872" height="528" alt="image" src="https://github.com/user-attachments/assets/53f24fd3-d454-42d3-8b82-453488233c44" /># Tiburones-Paradigma-Orientado-a-Objetos
 <div align="center">
 
 <img width="1872" height="528" alt="image" src="https://github.com/user-attachments/assets/3cab3f10-45a6-45b9-b63e-09bdaeff39dd" />
@@ -30,7 +30,7 @@ Presentamos a los miembros de "Tiburones". *Haz clic en las imágenes para ir a 
 | [<img src="fotoscaras/lucas.jpeg" alt="Lucas Felice" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/nicolas.jpeg" alt="Nicolas Facedini" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/victoria.jpeg" alt="Victoria Leiva" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/mirko.jpeg" alt="Mirko Palma" width="150px">](https://github.com/TU_USUARIO_GITHUB) |
 | :---: | :---: | :---: | :---: |
 | **Lucas Felice** | **Nicolas Facedini** | **Victoria Leiva** | **Mirko Palma** |
-| Legajo: XXXXXXX | Legajo: XXXXXXX | Legajo: XXXXXXX | Legajo: XXXXXXX |
+| Legajo: 1141923 | Legajo: 1140673 | Legajo: 1157085 | Legajo: 1201583 |
 | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) |
 
 <br>
@@ -38,7 +38,7 @@ Presentamos a los miembros de "Tiburones". *Haz clic en las imágenes para ir a 
 | [<img src="fotoscaras/valentina.jpeg" alt="Valentina Segovia De Leon" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/ramiro.jpeg" alt="Ramiro Zaldivar" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/ignacio.jpeg" alt="Ignacio Julian Villalba" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/alejandro.jpeg" alt="Alejandro" width="150px">](https://github.com/TU_USUARIO_GITHUB) |
 | :---: | :---: | :---: | :---: |
 | **Valentina Segovia** | **Ramiro Zaldivar** | **Ignacio Villalba** | **Alejandro Vallejos** |
-| Legajo: XXXXXXX | Legajo: XXXXXXX | Legajo: XXXXXXX | Legajo: XXXXXXX |
+| Legajo: 1167893 | Legajo: 1207185 | Legajo: 1215744 | Legajo: XXXXXXX |
 | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) |
 
 </div>
