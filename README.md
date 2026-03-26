@@ -1,4 +1,3 @@
-<img width="1872" height="528" alt="image" src="https://github.com/user-attachments/assets/53f24fd3-d454-42d3-8b82-453488233c44" /># Tiburones-Paradigma-Orientado-a-Objetos
 <div align="center">
 
 <img width="1872" height="528" alt="image" src="https://github.com/user-attachments/assets/3cab3f10-45a6-45b9-b63e-09bdaeff39dd" />
