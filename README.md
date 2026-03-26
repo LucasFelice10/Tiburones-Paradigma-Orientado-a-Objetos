@@ -1,8 +1,7 @@
 # Tiburones-Paradigma-Orientado-a-Objetos
 <div align="center">
 
-<img width="755" height="210" alt="image" src="![unnamed](https://github.com/user-attachments/assets/6c3902e2-e8c5-47ad-a1e8-ab3d2fc3fd5a)
-" />
+<img width="1024" height="288" alt="image" src="https://github.com/user-attachments/assets/56202dde-4691-4ca5-b0e3-a2a052aa9008" />
 
 <br>
 
