@@ -50,7 +50,6 @@ Presentamos a los miembros de "Tiburones". *Haz clic en las imágenes para ir a 
 A continuación, la organización de las actividades entregadas:
 
 * **`/Actividad1_Introduccion`**: Primeros pasos y estructuras básicas de objetos.
-* **`/Actividad2_Clases_y_Metodos`**: Trabajo práctico sobre abstracción y encapsulamiento.
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -58,6 +57,8 @@ A continuación, la organización de las actividades entregadas:
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Star UML](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=Orange)
+
 
 </div>
 
