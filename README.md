@@ -37,7 +37,7 @@ Presentamos a los miembros de "Tiburones". *Haz clic en las imágenes para ir a 
 | [<img src="fotoscaras/valentina.jpeg" alt="Valentina Segovia De Leon" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/ramiro.jpeg" alt="Ramiro Zaldivar" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/ignacio.jpeg" alt="Ignacio Julian Villalba" width="150px">](https://github.com/TU_USUARIO_GITHUB) | [<img src="fotoscaras/alejandro.jpeg" alt="Alejandro" width="150px">](https://github.com/TU_USUARIO_GITHUB) |
 | :---: | :---: | :---: | :---: |
 | **Valentina Segovia** | **Ramiro Zaldivar** | **Ignacio Villalba** | **Alejandro Vallejos** |
-| Legajo: 1167893 | Legajo: 1207185 | Legajo: 1215744 | Legajo: XXXXXXX |
+| Legajo: 1167893 | Legajo: 1207185 | Legajo: 1215744 | Legajo: 1146637 |
 | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) | [<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/TU_USUARIO_GITHUB) |
 
 </div>
